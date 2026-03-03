@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { Heart, Users, Lock } from "lucide-react";
 import { FeedbackForm } from "./components/feedback-form";
 import { FeedbackList } from "./components/feedback-list";
