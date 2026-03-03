@@ -1,5 +1,4 @@
-import React from "react";
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { Send, UserCircle, UserX } from 'lucide-react';
 import { Button } from './ui/button';
 import { Textarea } from './ui/textarea';
