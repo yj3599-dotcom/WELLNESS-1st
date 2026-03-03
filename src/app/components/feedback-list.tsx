@@ -1,3 +1,4 @@
+import React from "react";
 import { FeedbackCard } from './feedback-card';
 
 interface Feedback {
